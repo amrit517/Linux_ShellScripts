@@ -1,7 +1,3 @@
-================================================================================================
-
-2. File Viewing and Editing
-
 cat – Concatenate and display file content
 Displays the content of a file.
 Example:
